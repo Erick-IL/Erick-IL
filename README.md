@@ -14,7 +14,7 @@ Tenho experiência em **desenvolvimento de APIs, automação de processos e aná
 - **Banco de Dados**: MySQL, MariaDB  
 - **Cloud e Infra**: AWS (aprendizado)  
 - **Desenvolvimento Web**: Flask, APIs REST  
-- **Outras Ferramentas**: Git, GitHub, Docker (básico), Linux  
+- **Outras Ferramentas**: Git, GitHub, Linux  
 
 ---
 
