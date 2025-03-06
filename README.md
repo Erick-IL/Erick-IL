@@ -1,19 +1,28 @@
 # 👋 Olá! Eu sou o Erick Ian Levandoski  
 
-## 🚀 Sobre mim  
-Apaixonado por tecnologia e desenvolvimento de software, sempre gostei de resolver desafios e criar soluções inovadoras. Atualmente, estudo **Python** e estou iniciando em **Go** e **C**.  
+Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando aprender e resolver desafios. Tenho experiência em **desenvolvimento de APIs, automação de processos e análise de dados**. Atualmente, estudo **Python** e estou explorando **Go e C**.  
 
-Tenho experiência em **desenvolvimento de APIs, automação de processos e análise de dados**, além de conhecimentos em **MySQL, MariaDB, AWS e Flask**.  
-
-📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas na PUCPR (EAD)** e estou sempre explorando novas tecnologias para expandir minhas habilidades.  
+📚 **Cursando Análise e Desenvolvimento de Sistemas na PUCPR**  
+🚀 Buscando oportunidades como **Desenvolvedor Backend**  
 
 ---
 
-## 🛠️ Languages and Tools 
-<img src="https://skillicons.dev/icons?i=python,go,vscode,git,github" />
-<img src="https://skillicons.dev/icons?i=aws,flask,postman,selenium,ubuntu" />
+## 🛠️ Tecnologias  
+### **Linguagens & Ferramentas**  
+<img src="https://skillicons.dev/icons?i=python,go,c,vscode,git,github" />  
+<img src="https://skillicons.dev/icons?i=aws,flask,postman,selenium,ubuntu,docker" />  
+
+### **Banco de Dados**  
+<img src="https://skillicons.dev/icons?i=mysql" />  
 
 ---
 
-## DataBases
-<img src="https://skillicons.dev/icons?i=mysql" />
+## 📌 Projetos em Destaque  
+🔹 [**Chatbot com IA**](https://github.com/Erick-IL/seu-projeto) – Chatbot inteligente integrado com IA  
+🔹 [**API CRUD**](https://github.com/Erick-IL/seu-projeto) – API completa para gestão de dados  
+
+---
+
+## 📫 Onde me encontrar?  
+📎 [LinkedIn](https://www.linkedin.com/in/erick-il/)  
+📂 [GitHub](https://github.com/Erick-IL)  
