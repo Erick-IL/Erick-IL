@@ -22,7 +22,5 @@ Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando apre
 🔹 [**API CRUD**](https://github.com/Erick-IL/seu-projeto) – API completa para gestão de dados  
 
 ---
-
-## 📫 Onde me encontrar?  
 📎 [LinkedIn](https://www.linkedin.com/in/erick-il/)  
 📂 [GitHub](https://github.com/Erick-IL)  
