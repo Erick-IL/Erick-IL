@@ -9,7 +9,7 @@ Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando apre
 
 ## 🛠️ Tecnologias  
 ### **Linguagens & Ferramentas**  
-<img src="https://skillicons.dev/icons?i=python,go,vscode,git,github" />  
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github" />  
 <img src="https://skillicons.dev/icons?i=aws,flask,postman,selenium,ubuntu" />  
 
 ### **Banco de Dados**  
