@@ -18,5 +18,5 @@ Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando apre
 ---
 
 ## 📌 Projetos em Destaque  
-🔹 [**Chatbot com IA**](https://github.com/Erick-IL/Flask_API) – Chatbot inteligente integrado com IA  
-🔹 [**API CRUD**](https://github.com/Erick-IL/ai_chat) – API completa para gestão de dados  
+🔹 [**Chatbot com IA**](https://github.com/Erick-IL/ai_chat) – Chatbot inteligente integrado com IA  
+🔹 [**API CRUD**](https://github.com/Erick-IL/Flask_API) – API completa para gestão de dados  
