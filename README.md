@@ -3,7 +3,7 @@
 Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando aprender e resolver desafios. Tenho experiência em **desenvolvimento de APIs, automação de processos e análise de dados**. Atualmente, estudo **Python** e estou começando a explorar **Java**.  
 
 📚 **Cursando Análise e Desenvolvimento de Sistemas na PUCPR**  
-🚀 Buscando oportunidades como **Desenvolvedor Backend**  
+🚀 Buscando oportunidades como **Desenvolvedor Backend** e **Desenvolvedor FullStack**
 
 ---
 
