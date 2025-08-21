@@ -16,7 +16,7 @@ Sou um desenvolvedor **backend** apaixonado por tecnologia, sempre buscando apre
 <img src="https://skillicons.dev/icons?i=git,docker,linux,debian,aws,postman" />  
 
 ### **Banco de Dados**  
-<img src="https://skillicons.dev/icons?i=mysql" />  
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />  
 
 ---
 
